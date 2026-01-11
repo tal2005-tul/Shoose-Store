@@ -1,0 +1,20 @@
+.stam,.active{
+    background-color: white;
+    padding: 15px;
+    border-radius: 5px;
+    border: 0;
+}
+.active{
+    background-color: rgba(223, 223, 238, 0.685);
+}
+.all-products{
+    display: flex;
+    flex-wrap: wrap;
+ justify-content: center;
+    
+}
+.pages{
+    text-align: center;
+    margin-left: 25vw;
+    padding: 5%;
+}
